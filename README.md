@@ -33,33 +33,25 @@ This is a decentralized todo list application that allows users to create and ma
 1. Install dependencies:
 
 ```
-bash
    npm install
-
 ```
 
 2. Compile smart contracts:
 
 ```
-bash
    truffle compile
-
 ```
 
 3. Migrate contracts to blockchain:
 
 ```
-bash
    truffle migrate
-
 ```
 
 4. Run the development server:
 
 ```
-bash
    npm run dev
-
 ```
 
 ## Usage
